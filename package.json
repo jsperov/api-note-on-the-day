@@ -1,0 +1,22 @@
+{
+  "name": "api-note-on-the-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsperov/api-note-on-the-day.git"
+  },
+  "author": "jsperov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsperov/api-note-on-the-day/issues"
+  },
+  "homepage": "https://github.com/jsperov/api-note-on-the-day#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
