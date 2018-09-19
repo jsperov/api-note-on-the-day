@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jsperov/api-note-on-the-day#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.15"
   }
 }
